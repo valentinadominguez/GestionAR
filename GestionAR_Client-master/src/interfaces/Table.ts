@@ -1,0 +1,1 @@
+export type SortKey = string | { first: string; second: string };
